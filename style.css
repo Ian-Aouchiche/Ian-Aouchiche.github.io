@@ -1,0 +1,58 @@
+h1 
+{
+	color:#d7da18;
+	font-family: Arial Black;
+}
+p
+{
+	color:white;
+	font-size:17px;
+	font-family:sans-serif;
+}
+h2
+{
+	color:#ff3f00;
+	font-family:Times New Roman;
+}
+
+
+body
+{
+	background: url(https://cdn.wallpapersafari.com/82/80/EDUevG.jpg) ;
+	background-size: 100%
+	
+}
+#texte
+{
+	width:800px;
+	background-color:#151616    ;
+	margin:0 auto;
+	text-align:center;
+	align-content: center;
+}
+.flotte
+{
+	float:right;
+}
+.flotteg
+{
+	float:left;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color:white ;
+	text-decoration: none;
+	background-color: #A09F94 ;
+	font-family: sans-serif;
+	padding: 5px
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color:black ;
+	background-color: white;
+}
